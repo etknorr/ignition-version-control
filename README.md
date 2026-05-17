@@ -1,5 +1,10 @@
 # Basics of Git
 
+> [!IMPORTANT]
+> This repository is archived. The Version Control content has moved to [ignition-guides](https://ia-eknorr.github.io/ignition-guides/), the community resource for modern DevOps workflows with Ignition.
+>
+> Go directly to: **[Version Control Guide](https://ia-eknorr.github.io/ignition-guides/docs/guides/version-control/intro)**
+
 ## Table of Contents
 
 - [Basics of Git](#basics-of-git)
