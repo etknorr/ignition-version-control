@@ -34,21 +34,21 @@ Learn how to use version control with Git and Ignition.
 
 This repo can be used as a manual to be read from top to bottom in order to learn the basics of git and gain intermediate strategies, or as a reference to be reminded of certain functions or strategies.
 
-If you consider yourself new to git with Ignition, it may be useful to go through the [Git Ignition Lab](https://github.com/ia-eknorr/git-ignition-lab), which will give you a practical ideal of git version control for Ignition development.
+If you consider yourself new to git with Ignition, it may be useful to go through the [Git Ignition Lab](https://github.com/etknorr/git-ignition-lab), which will give you a practical ideal of git version control for Ignition development.
 
 ## Course Contents
 
 > [!TIP] Bullet points that are not hyperlinked are road-mapped for future development.
 
-- [Git Ignition Lab](https://github.com/ia-eknorr/git-ignition-lab)
-- [Basics of Git](https://github.com/ia-eknorr/ignition-version-control)
+- [Git Ignition Lab](https://github.com/etknorr/git-ignition-lab)
+- [Basics of Git](https://github.com/etknorr/ignition-version-control)
   - [Workstation Setup](Workstation%20Setup.md)
   - [Initialize a local repository](Initialize%20a%20Local%20Repository.md)
   - [Create a branch and push changes](Create%20a%20Branch%20and%20Push%20changes.md)
   - [Create a pull request](Create%20a%20Pull%20Request.md)
   - [Merge a pull request](Merge%20a%20Pull%20Request.md)
 - [Branching Strategies](Branching%20Strategy.md)
-- [Ignition Git Style Guide](https://github.com/ia-eknorr/ignition-git-style-guide)
+- [Ignition Git Style Guide](https://github.com/etknorr/ignition-git-style-guide)
 - Intermediate Git
   - Resolving Merge conflicts
   - Intermediate commands
@@ -159,7 +159,7 @@ This repository uses [pre-commit](https://pre-commit.com/) to enforce code style
 
 ## Requests? Issues?
 
-If you have any questions or notice something that doesn't look right, [open an issue](https://github.com/ia-eknorr/ignition-version-control/issues) or submit a pull request.
+If you have any questions or notice something that doesn't look right, [open an issue](https://github.com/etknorr/ignition-version-control/issues) or submit a pull request.
 
 ### Cred
 
